@@ -29,6 +29,7 @@ Deply Zero Two form Heroku
 -   Object Oriented
 -   Easy to use
 -   Totally free to use and distributed by [Fantox](https://github.com/FantoX001)
+-   Re-deployed by [NTApanda](https://github.com/NTApanda)
 -   Written in [TypeScript](https://www.typescriptlang.org/)
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
     WhatsApp Library Out Available There)
